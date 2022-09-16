@@ -1,0 +1,91 @@
+.sessao01 {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+}
+.sessao01-titulo {
+    font-size: 25px;
+    font-family: 'Roboto';
+}
+.sessao01-imagem {
+    width: 190px;
+}
+.sessao01-subtitulo {
+    font-size: 20px;
+    font-family: 'Capriola';
+}
+.sessao01-paragrafo {
+    font-size: 15px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sessao01-comprar {
+    color: white;
+    text-decoration: none;
+    border-style: 20px solid ;
+    padding: 5px 25px;
+    background-color: rgb(77, 243, 77);
+    border-radius: 10px;
+}
+.sessao02 {
+    background-color: #f5f5f5;
+    padding: 50px 100px ;
+    text-align: center;
+}
+.sessao02-subtitulo {
+    font-size: 20px;
+    font-family: 'Capriola';
+}
+.sessao02-span {
+    font-weight: bold;
+    font-size: 17px;
+}
+.sessao02-paragrafo {
+    font-size: 15px;
+    font-family: 'Roboto';
+}
+.sessao03 {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+}
+.sessao03-subtitulo {
+    font-size: 20px;
+    font-family: 'Capriola';
+}
+.sessao03-imagem {
+    width: 190px;
+    margin: 5px 25px;
+}
+.sessao03-paragrafo {
+    font-size: 15px;
+    font-family: 'Roboto';
+}
+.sessao03-span {
+    font-weight: bold;
+    font-size: 15px;
+}
+.sessao04 {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+}
+.sessao04-span {
+    font-size: 20px;
+    font-family: 'Segoe';
+    font-weight: bold;
+}
+.sessao04-paragrafo {
+    font-size: 15px;
+    font-family: 'Roboto';
+}
+.sessao04-comprar {
+    color: white;
+    text-decoration: none;
+    border-style: 20px solid;
+    padding: 5px 25px;
+    background-color: rgb(77, 243, 77);
+    border-radius: 10px;
+}
